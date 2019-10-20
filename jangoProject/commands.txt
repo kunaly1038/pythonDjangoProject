@@ -1,1 +1,7 @@
-djnago-admin --help
+#for the help
+django-admin --help
+
+#to start the Application
+python manage.py startapp jango
+
+python manage.py --help
